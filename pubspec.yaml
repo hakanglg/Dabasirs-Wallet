@@ -1,0 +1,151 @@
+name: dabasirs_wallet
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+  # RESPONSIVE UI
+  kartal: ^2.4.0
+  flutter_screenutil: ^5.5.3+2
+
+  # STATE
+  provider: ^6.0.3
+  
+  # GOOGLE
+  dio: ^4.0.6
+  json_annotation: ^4.6.0
+  json_serializable: ^6.3.1
+  google_sign_in: ^5.4.0
+
+  # FIREBASE
+  firebase_core: ^1.20.0
+  firebase_auth: ^3.6.2
+  cloud_firestore: ^3.4.3
+
+  # SNACK BAR
+  top_snackbar_flutter: ^2.1.1
+  
+  # GLASSMORPHISM
+  glassmorphism_ui: ^0.3.0
+ 
+  # LOCALIZATION
+  easy_localization: ^3.0.1
+
+  # NAVBAR
+  persistent_bottom_nav_bar_v2: ^4.2.4
+ 
+  # LINEAR PROGRESS BAR
+  linear_progress_bar: ^1.1.0
+
+  # TICKET CARD
+  ticket_widget: ^0.0.1 
+  
+  # Currency
+  currency_picker: ^2.0.11
+
+  # CACHE
+  shared_preferences: ^2.0.15
+
+  # Slidable widget
+  flutter_slidable: ^2.0.0
+ 
+ 
+
+  # Animation
+  lottie: ^1.4.2
+
+  # Splash
+  flutter_native_splash: ^2.2.8
+
+flutter_native_splash:
+  color: "#2E2F43"
+  image: "assets/images/ic_logo.png"
+  android: true
+  ios: true
+
+  
+  
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+  build_runner: ^2.2.0
+  uuid: ^3.0.6
+  intl: ^0.17.0
+  flutter_launcher_icons: ^0.10.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/ic_logo.png"
+  adaptive_icon_background: "#2E2F43"
+  adaptive_icon_foreground: "assets/images/ic_logo.png"
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/fonts/
+    - assets/translations/
+    - assets/lottie/
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-Bold.ttf
+        - asset: assets/fonts/Poppins/Poppins-ExtraBold.ttf
+        - asset: assets/fonts/Poppins/Poppins-ExtraLight.ttf
+        - asset: assets/fonts/Poppins/Poppins-Light.ttf
+        - asset: assets/fonts/Poppins/Poppins-Medium.ttf
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins/Poppins-SemiBold.ttf
+        - asset: assets/fonts/Poppins/Poppins-Thin.ttf
+  
+  
+
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

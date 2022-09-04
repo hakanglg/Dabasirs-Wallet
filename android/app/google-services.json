@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "695680439344",
+    "firebase_url": "https://dabasirs-wallet-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "dabasirs-wallet",
+    "storage_bucket": "dabasirs-wallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695680439344:android:dc2931cbe7f751c1c3c9f5",
+        "android_client_info": {
+          "package_name": "com.compo.dabasirs_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695680439344-e86agh6d7se3qtern1dfrr0apmvpa6nu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.compo.dabasirs_wallet",
+            "certificate_hash": "940daa5b67934823b0d26e266bbff4fbe5aa2490"
+          }
+        },
+        {
+          "client_id": "695680439344-v5vhecc68hm6se2qa5fr9jsium8nbil6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2W_2-R_0kEx3MtSCxPfVu-Wrryuc31o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695680439344-v5vhecc68hm6se2qa5fr9jsium8nbil6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

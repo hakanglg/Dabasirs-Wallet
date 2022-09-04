@@ -1,0 +1,127 @@
+{
+    
+    "onBoard": {
+      
+        "onboardOneText": "Learn the advice of Dabasir, the richest man in Babylon",
+        "onboardTwoText": "Live off 70% of your monthly income",
+        "onboardThreeText": "Pay debts with 20%",
+        "onboardFourText": "Save 10% of your monthly income",
+        "skipText" : "Skip",
+        "doneText" : "Done"
+ 
+    },
+    
+    "global": {
+        "appBarTitleFirst": "Dabasir's",
+        "appBarTitleLast": "Wallet", 
+        "total": "Total",
+        "transaction": "Transactions",
+        "delete":"Delete",
+        "yearly": "Total Yearly Amounts",
+        "monthly": "Total Monthly Amounts",
+        "all": "All-Time Total"
+   
+    },
+    
+
+    "auth":{
+        "mailText": "Email",
+        "passwordText":"Password"
+    },
+
+    "login": {
+        "loginTitle": "Login to your account",
+        "forgotPasswordText": "Forgot your password?",
+        "needAccountText": "Need an account?",
+        "newToAppText":"New to Dabasir's Wallet? ",
+        "signUpText":"Register",
+        "orText" : "or",
+        "loginGoogleText": "Login with Google",
+        "dummyEmailText":"name@domain.com",
+        "dummyPasswordText":"**********"
+    },
+
+    "register":{
+        "registerTitle":"Sign up to Dabasir'sWallet",
+        "registerDescription": "Keep your financial data store to our server that you can access from anywhere you want",
+        "nameText": "Your name"
+    },
+
+    "addTransaction":{
+        "addTransactionTitle": "What kind of transaction it is?",
+        "addTransactionText": "Add transaction",
+        "income": "Income",
+        "expense": "Expense",
+        "saving" : "Saving",
+        "transactionType" : "Transaction Type",
+        "transactionName" : "Transaction Name",
+        "enterTransactionName":"Enter transaction name",
+        "expenseAmount": "Expense Amount",
+        "savingAmount": "Saving Amount",
+        "incomeAmount": "Income Amount",
+        "amount":"Amount",
+        "date": "Date",
+        "today": "Today",
+        "congratulation": "Congratulations!",
+        "successMessage": "Your transaction is added successfully",
+        "emptyTransactionName": "Please enter transaction name",
+        "emptyTransactionAmount": "Please enter transaction amount",
+        "successTransactionAdded": "Transaction added successfully. You are awesome!",
+        "negativeTransactionAmountError": "Negative value cannot be used!",
+        "selectDateText":"Select a date"
+    },
+
+    "months":{
+        "january": "January",
+        "february": "February",
+        "march": "March",
+        "april": "April",
+        "may": "May",
+        "june": "June",
+        "july": "July",
+        "august": "August",
+        "september": "September",
+        "october": "October",
+        "november": "November",
+        "december": "December"
+    },
+
+    "profile":{
+        "language": "Language",
+        "turkish": "Turkish",
+        "english": "English",
+        "arabic": "Arabic",
+        "german": "German",
+        "french": "French",
+        "spanish": "Spanish",
+        "portuguese": "Portuguese",
+        "italian": "Italian",
+        "ukranian":"Ukranian",
+        "russian": "Russian",
+        "greek": "Greek",
+        "japanese": "Japanese",
+        "korean": "Korean",
+        "chinese": "Chinese",
+        "darkMode":"Dark Mode",
+        "changeCurrency": "Chance Currency",
+        "selectLanguage": "Select Language",
+        "cancel":"Cancel",
+        "alertTitle":"Do you want to delete your account?",
+        "remove": "Delete Account"
+
+    },
+
+     
+
+    "snackbar":{
+        "emailVerification":"Email verification sent!",
+        "emailAlreadyInUser":"Email already in use!",
+        "wrongPassword":"Wrong password!",
+        "userNotFound":"User not found!",
+        "userDisabled":"User disabled!",
+        "invalidEmail": "Invalid email!",
+        "signOutSuccess":"Signed out successfully!",
+        "signOutError":"Error signing out!",
+        "deleteAccountSuccess":"Account deleted successfully"
+    }
+}

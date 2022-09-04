@@ -1,0 +1,124 @@
+{
+    "onBoard": {
+      
+        "onboardOneText": "Babil'in en zengin adamı Dabasir'in tavsiyelerini öğrenin!",
+        "onboardTwoText": "Aylık gelirinizin %70'i ile yaşayın",
+        "onboardThreeText": "%20 ile borçlarınızı ödeyin",
+        "onboardFourText": "%10'unu tasarruf edin",
+        "skipText" : "Geç",
+        "doneText" : "Bitir"
+ 
+    },
+    
+    "global": {
+        "appBarTitleFirst": "Dabasir's",
+        "appBarTitleLast": "Wallet", 
+        "total": "Toplam",
+        "transaction": "İşlemler",
+        "delete":"Sil",
+        "yearly": "Toplam Yıllık Tutarlar",
+        "monthly": "Toplam Aylık Tutarlar",
+        "all": "Tüm Zamanların Toplamı"
+   
+    },
+
+    "auth":{
+        "mailText": "E-posta",
+        "passwordText":"Şifre"
+    },
+
+    "login": {
+        "loginTitle": "Hesabınıza giriş yapın",
+        "forgotPasswordText": "Parolanızı mı unuttunuz?",
+        "needAccountText": "Bir hesaba mı ihtiyacınız var?",
+        "newToAppText":"Dabasir's Wallet'da yeni misin? ",
+        "signUpText":"Kayıt ol",
+        "orText" : "veya",
+        "loginGoogleText": "Google ile giriş yapın",
+        "dummyEmailText":"name@domainCom",
+        "dummyPasswordText":"**********"
+    },
+
+    "register":{
+        "registerTitle":" Dabasir'sWallet'a  kayıt olun",
+        "registerDescription": "Finansal veri deponuzu sunucumuzda tutun, istediğiniz her yerden erişin! ",
+        "nameText": "Adınız"
+    },
+
+    "addTransaction":{
+        "addTransactionTitle": "İşlem türünü seçin",
+        "addTransactionText": "İşlem ekle",
+        "income": "Gelir",
+        "expense": "Gider",
+        "saving" : "Tasarruf",
+        "transactionType" : "İşlem tipi",
+        "transactionName" : "İşlem adı",
+        "enterTransactionName":"İşlem Adını Girin",
+        "expenseAmount": "Gider tutarı",
+        "savingAmount": "Tasarruf tutarı",
+        "incomeAmount": "Gelir tutarı",
+        "amount":"Tutar",
+        "date": "Tarih",
+        "today": "Bugün",
+        "congratulation": "Tebrikler!",
+        "successMessage": "İşleminiz başarıyla eklendi",
+        "emptyTransactionName": "Lütfen işlem adını girin",
+        "emptyTransactionAmount": "Lütfen işlem tutarını girin",
+        "successTransactionAdded": "İşlem başarıyla eklendi. Müthişsin!",
+        "negativeTransactionAmountError": "Negatif değerler kullanılamaz!",
+        "selectDateText":"Bir Tarih Seçin"
+    },
+
+    "months":{
+        "january": "Ocak",
+        "february": "Şubat",
+        "march": "Mart",
+        "april": "Nisan",
+        "may": "Mayıs",
+        "june": "Haziran",
+        "july": "Temmuz",
+        "august": "Ağustos",
+        "september": "Eylül",
+        "october": "Ekim",
+        "november": "Kasım",
+        "december": "Aralık"
+    },
+
+    "profile":{
+        "language": "Dil",
+        "turkish": "Türkçe",
+        "english": "İngilizce",
+        "arabic": "Arapça",
+        "german": "Almanca",
+        "french": "Fransızca",
+        "spanish": "İspanyolca",
+        "portuguese": "Portekizce",
+        "italian": "İtalyanca",
+        "ukranian":"Ukraynaca",
+        "russian": "Rusça",
+        "greek": "Yunanca",
+        "japanese": "Japonca",
+        "korean": "Korece",
+        "chinese": "Çince",
+        "darkMode":"Karanlık Mod",
+        "changeCurrency": "Para Birimi Değiştir",
+        "selectLanguage": "Dil Seçin",
+        "cancel":"İptal",
+        "alertTitle":"Hesabınızı silmek istiyor musunuz?",
+        "remove": "Hesabını Sil"
+
+    },
+
+    "snackbar":{
+        "emailVerification":"E-posta Doğrulama Gönderildi!",
+        "emailAlreadyInUser":"E-posta zaten kullanımda!",
+        "wrongPassword":"Şifreniz yanlış!",
+        "userNotFound":"Kullanıcı bulunamadı!",
+        "userDisabled":"Kullanıcı devre dışı bırakıldı!",
+        "invalidEmail": "Geçersiz e-posta!",
+        "signOutSuccess":"Başarılı bir şekilde çıkış yapıldı!",
+        "signOutError":"Çıkış yaparken hata oluştu!",
+        "deleteAccountSuccess":"Hesap başarıyla silindi"
+    }
+
+}
