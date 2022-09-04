@@ -17,7 +17,6 @@ class ThemeNotifier extends ChangeNotifier {
     notifyListeners();
   }
 
-  ThemeData get currentTheme => _manager.readBool(SharedKeys.theme) ?? true
-      ? darkTheme
-      : ThemeData.light();
+  ThemeData get currentTheme =>
+      _manager.readBool(SharedKeys.theme) == true ? darkTheme : ThemeData();
 }

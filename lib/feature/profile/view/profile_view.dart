@@ -14,7 +14,6 @@ import '../../../core/components/row/my_row.dart';
 import '../../../core/components/text/default_title.dart';
 import '../../../core/manager/navigation_manager.dart';
 import '../../../product/cache/cache_manager.dart';
-import '../../../product/global/theme_notifier.dart';
 import '../../../product/lang/locale_keys.g.dart';
 import '../../../product/widgets/alert_diaog/delete_account_alert.dart';
 import '../../../product/widgets/app_bar/default_app_bar.dart';
@@ -122,15 +121,29 @@ class _ProfileViewState extends State<ProfileView>
         ));
   }
 
+  // ?? LIGHT THEME DOESN'T EXIST ?? //
+  // ?? WHEN THERE IS LIGHT THEME REMOVE THE VALUE AND ONCHANGED COMMENTS AND FEATURE WILL BE WORKING ?? //
   CustomSettingsListTile _themeListTile(BuildContext context) {
     return CustomSettingsListTile(
         leadingIcon: Icons.dark_mode,
         title: LocaleKeys.profile_darkMode,
-        trailing: Switch.adaptive(
-          value: _manager.readBool(SharedKeys.theme) ?? true,
-          onChanged: (bool value) {
-            context.read<ThemeNotifier>().changeTheme();
-          },
+        trailing: Wrap(
+          crossAxisAlignment: WrapCrossAlignment.center,
+          spacing: 20,
+          children: [
+            Text(
+              "soon",
+              style: context.textTheme.subtitle2,
+            ),
+            Switch.adaptive(
+              value: true,
+              onChanged: (value) {},
+              // value: _manager.readBool(SharedKeys.theme) ?? true,
+              // onChanged: (bool value) {
+              //   context.read<ThemeNotifier>().changeTheme();
+              // },
+            )
+          ],
         ));
   }
 
