@@ -2,7 +2,7 @@
 ![Uygulama Ekran Görüntüsü](https://iili.io/6YjeMx.png)
 
 
-## Acknowledgements
+## Tech and Libraries
  - MVVM
  - State Management with [Provider](https://pub.dev/packages/provider)
  - Cache Management with [Shared references](https://github.com/matiassingers/awesome-readme)
@@ -10,6 +10,10 @@
  - Backend with Firebase Firestore
  - Authentication with Firebase
 
+## Language
+ - Turkish
+ - English
+ 
 ## Screenshots
 
 |Onboard|Onboard|Onboard|
