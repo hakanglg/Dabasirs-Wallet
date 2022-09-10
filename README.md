@@ -9,8 +9,8 @@
  - State Management with [Provider](https://pub.dev/packages/provider)
  - Cache Management with [Shared references](https://github.com/matiassingers/awesome-readme)
  - Localization with [EasyLocalization](https://pub.dev/packages/easy_localization)
- - Backend with Firebase Firestore
- - Authentication with Firebase
+ - Database with Firestore
+ - Authentication with Firebase Auth
 
 ## Language
  - Turkish
