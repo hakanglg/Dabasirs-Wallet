@@ -1,13 +1,11 @@
+import 'package:dabasirs_wallet/core/init/theme/dark_theme.dart';
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import 'core/constants/app/app_constants.dart';
-import 'product/global/theme_notifier.dart';
 import 'product/init/product_init.dart';
 import 'product/navigator/navigator_routes.dart';
-import 'package:kartal/kartal.dart';
-
 
 Future<void> main() async {
   final productInit = ProductInit();
@@ -41,7 +39,9 @@ class MyApp extends StatelessWidget {
       locale: context.locale,
       debugShowCheckedModeBanner: false,
       title: ApplicationConstants.APP_TITLE,
-      theme: Provider.of<ThemeNotifier>(context).currentTheme,
+      //* when light theme is ready, remove the comment
+      // theme: Provider.of<ThemeNotifier>(context).currentTheme
+      theme: darkTheme,
       home: ProductInit().home(),
       routes: NavigatorRoutes().items,
     );

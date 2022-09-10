@@ -3,7 +3,7 @@ description: A new Flutter project.
 
 publish_to: 'none' 
 
-version: 1.0.0+1
+version: 1.0.1+2
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
@@ -58,8 +58,6 @@ dependencies:
 
   # Slidable widget
   flutter_slidable: ^2.0.0
- 
- 
 
   # Animation
   lottie: ^1.4.2
