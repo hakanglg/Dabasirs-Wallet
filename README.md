@@ -19,7 +19,7 @@
 ## Screenshots
 
 | Splash | Login | Register |
-| ------------- |:-------------:| -----:|
+| ---------------- |:----------------:| --------:|
 <img src="https://user-images.githubusercontent.com/58719777/188316314-77b75e41-b560-476f-9834-e70d4c88d74c.png" width="400" height="700"/>| <img src="https://user-images.githubusercontent.com/58719777/188316317-bf1e3b4d-c211-4da4-aea9-067961267d04.png" width="400" height="700"/> | <img src="https://user-images.githubusercontent.com/58719777/188316321-23e6bec1-c9ed-4493-ac63-73d38a3937fb.png" width="400" height="700"/>|
 |Onboard|Onboard|Onboard|
 | <img src="https://user-images.githubusercontent.com/58719777/189530458-27090932-20b0-49fb-9669-6b4ed3211be2.png" width="400" height="700"/> |<img src="https://user-images.githubusercontent.com/58719777/188314943-0e913f35-12d0-4ffe-8dfa-0007b07350e5.png" width="400" height="700"/>|<img src="https://user-images.githubusercontent.com/58719777/188315358-137fa4fd-66ae-4fc4-9183-d32bacf12151.png" width="400" height="700"/>|
