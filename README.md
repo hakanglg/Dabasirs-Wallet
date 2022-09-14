@@ -1,7 +1,10 @@
 ![Uygulama Ekran Görüntüsü](https://iili.io/6YjeMx.png)
 
 ## Coming Soon 
-<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="150" height="70"/>
+<a href="https://play.google.com/store/apps/details?id=com.compo.dabasirs_wallet">
+         <img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+         width=150" height="70">
+      </a>
  
 
 ## Tech and Libraries
